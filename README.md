@@ -52,7 +52,7 @@ Im sorry for this but the program is basically a mishmash of English and Czech l
 The Dosu! is tested on a Pentium II machine and the engine has some optimization struggles but
 with some tweaking like how many seconds ahead objects show up you can drastically improve the performance and i have no
 doubt it can run on older processors, theoretically the original Pentium and older if some optimizations were made within the engine.
-to change how many miliseconds ahead objects show, view the "#define PRE_SHOW" in the source code, defeault is 2000 miliseconds
+to change how many milliseconds ahead objects show, view the "#define PRE_SHOW" in the source code, default is 2000 milliseconds
 
 From the storage perspective the engine itself is tiny and most of your storage space would be used up by the WAVE audio but i recommend atleast
 10 megabytes of storage for comfortable use but if you can shrink the audio file and would have one map only then you can probably fit it on a 3.5 inch floppy disk
