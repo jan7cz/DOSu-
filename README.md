@@ -3,7 +3,7 @@ DOSu! is an open source engine heavily inspired by the game "osu!" made entirely
 
 --HOW TO GET STARTED--
 Inside the src folder you find the source code both for DOSu! and DOSu!_demo wich is a version made primarily for demonstrations since it plays autonomously.
-Inside the bin folder you will finde the already compiled EXE files of both programs.
+Inside the bin folder you will find the already compiled EXE files of both programs.
 
 --DEMO/AUTOPLAY--
 The Dosu!_demo allows you torun the beatmap and the audio without playing the game by yourself, ideal for demonstrations and
