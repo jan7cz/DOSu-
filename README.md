@@ -24,7 +24,7 @@ state is not very optimized and more objects would cause significant performance
 DOSu! by default expects the bgi folder to be located in C:\TC\BGI but the adress can be modified within the code
 but requires some digging in the source code. For quick search i recommend opening the code in a text editor that is
 capable of searching words and search "initgraph" wich will lead you to the lines where the path is also located written
-as "C:\ \TC\ \BGI" (I spaced the slashes on purpose to display otherwise they would display as a single slash).  Dont forget to use double slashes in the path as single slashes might cause some chaos in the c89 style code,
+as "C:\ \TC\ \BGI".  Dont forget to use double slashes in the path as single slashes might cause some chaos in the c89 style code,
 depends on wich compiler you are using (i used the original Turbo C++ 3.0).
 
 --SCORING AND TIMING--
