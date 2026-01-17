@@ -29,7 +29,7 @@ depends on wich compiler you are using (i used the original Turbo C++ 3.0).
 
 --SCORING AND TIMING--
 The scoring and timing within the EXE is currently pretty improvised but most of those settings can
-be changed in the #define section of the code like the player health, windows in wich you get 300, 100 or 50 points miliseconds.
+be changed in the #define section of the code like the player health, windows in wich you get 300, 100 or 50 points in milliseconds.
 
 --CONTROLS--
 By default you use the mouse to move the cursor wich is a small yellow circle. To hit you might use the left mouse button or
